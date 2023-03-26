@@ -1,0 +1,8 @@
+D:\visualS\proj\Xolodov\srez\srez3\bin\Debug\srez3.exe.config
+D:\visualS\proj\Xolodov\srez\srez3\bin\Debug\srez3.exe
+D:\visualS\proj\Xolodov\srez\srez3\bin\Debug\srez3.pdb
+D:\visualS\proj\Xolodov\srez\srez3\obj\Debug\srez3.csproj.AssemblyReference.cache
+D:\visualS\proj\Xolodov\srez\srez3\obj\Debug\srez3.csproj.SuggestedBindingRedirects.cache
+D:\visualS\proj\Xolodov\srez\srez3\obj\Debug\srez3.csproj.CoreCompileInputs.cache
+D:\visualS\proj\Xolodov\srez\srez3\obj\Debug\srez3.exe
+D:\visualS\proj\Xolodov\srez\srez3\obj\Debug\srez3.pdb

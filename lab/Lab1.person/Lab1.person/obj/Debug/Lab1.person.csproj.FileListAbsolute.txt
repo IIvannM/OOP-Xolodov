@@ -1,0 +1,11 @@
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\bin\Debug\Lab1.person.exe.config
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\bin\Debug\Lab1.person.exe
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\bin\Debug\Lab1.person.pdb
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.AssemblyReference.cache
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.SuggestedBindingRedirects.cache
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.Form1.resources
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.Properties.Resources.resources
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.GenerateResource.cache
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.CoreCompileInputs.cache
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.exe
+D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.pdb
