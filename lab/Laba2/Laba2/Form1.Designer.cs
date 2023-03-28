@@ -38,14 +38,14 @@
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBoxN = new System.Windows.Forms.TextBox();
-            this.textBoxR = new System.Windows.Forms.TextBox();
             this.textBoxc = new System.Windows.Forms.TextBox();
             this.textBoxd = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -142,20 +142,6 @@
             this.label3.TabIndex = 10;
             this.label3.Text = "Y";
             // 
-            // textBoxN
-            // 
-            this.textBoxN.Location = new System.Drawing.Point(86, 232);
-            this.textBoxN.Name = "textBoxN";
-            this.textBoxN.Size = new System.Drawing.Size(100, 20);
-            this.textBoxN.TabIndex = 11;
-            // 
-            // textBoxR
-            // 
-            this.textBoxR.Location = new System.Drawing.Point(86, 269);
-            this.textBoxR.Name = "textBoxR";
-            this.textBoxR.Size = new System.Drawing.Size(100, 20);
-            this.textBoxR.TabIndex = 12;
-            // 
             // textBoxc
             // 
             this.textBoxc.Location = new System.Drawing.Point(86, 306);
@@ -206,19 +192,45 @@
             this.label7.TabIndex = 18;
             this.label7.Text = "d";
             // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4"});
+            this.comboBox1.Location = new System.Drawing.Point(86, 227);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(100, 21);
+            this.comboBox1.TabIndex = 19;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "2",
+            "3",
+            "4",
+            "5"});
+            this.comboBox2.Location = new System.Drawing.Point(86, 269);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(100, 21);
+            this.comboBox2.TabIndex = 20;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.comboBox2);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textBoxd);
             this.Controls.Add(this.textBoxc);
-            this.Controls.Add(this.textBoxR);
-            this.Controls.Add(this.textBoxN);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
@@ -250,14 +262,14 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBoxN;
-        private System.Windows.Forms.TextBox textBoxR;
         private System.Windows.Forms.TextBox textBoxc;
         private System.Windows.Forms.TextBox textBoxd;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboBox2;
     }
 }
 
