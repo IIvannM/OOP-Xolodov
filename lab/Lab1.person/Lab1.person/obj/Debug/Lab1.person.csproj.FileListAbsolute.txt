@@ -9,3 +9,14 @@ D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj
 D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.CoreCompileInputs.cache
 D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.exe
 D:\visualS\proj\Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.pdb
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\bin\Debug\Lab1.person.exe.config
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\bin\Debug\Lab1.person.exe
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\bin\Debug\Lab1.person.pdb
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.AssemblyReference.cache
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.SuggestedBindingRedirects.cache
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.Form1.resources
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.Properties.Resources.resources
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.GenerateResource.cache
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.csproj.CoreCompileInputs.cache
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.exe
+D:\Projects\OOP-Xolodov\lab\Lab1.person\Lab1.person\obj\Debug\Lab1.person.pdb
